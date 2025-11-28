@@ -1,3 +1,4 @@
+/*mobile first, celular primeiro*/ 
 *{
   margin: 0;
   padding: 0;
@@ -16,6 +17,8 @@ body{
   background-size: cover;
 }
 
+
+/* agora seve para o desktop*/
 
 @media (width <= 768px){
   body{
